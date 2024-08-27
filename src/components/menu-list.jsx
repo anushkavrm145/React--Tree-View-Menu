@@ -9,5 +9,5 @@ export default function MenuList({list=[]}){
             :null
         }
     </ul>
-    );
+    );  
 }
